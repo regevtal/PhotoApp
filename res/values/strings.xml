@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PictureAlbum</string>
+    <string name="image_title_label">Title</string>
+    <string name="image_title_name"> Edit Name</string>
+    <string name="imageView">View1</string>
+    <string name="image_description_label">Description</string>
+    <string name="image_description">Insert </string>
+    <string name="image_title">List of Picture</string>
+    <string name="description_and_title">Edit</string>
+    <string name="date_picker_fragment"> Date of Picture</string>
+    <string name="description_type_fragment"> Picture Description</string>
+    <string name="new_image">New Image</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">If you see something, say something</string>
+    <string name="delete_image">Delete</string>
+    <string name="add_picture">Add Picture </string>
+    <string name="no_list_to_view">No pictures</string>
+    <string name="edit_image_title">Edit Picture</string>
+    <string name ="edit_save">Save</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="ViewPager" type="id"/>
+    <item name="ViewPager1" type="id"/>
+
+</resources>
